@@ -1,2 +1,4 @@
-# Python_leet
-leetcode in python
+# Neural Net
+Simple Neural Net for XOR
+
+Matlab and Python
